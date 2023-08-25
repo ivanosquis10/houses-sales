@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.custom-animation {
+  @apply duration-200 ease-in transition-all
+}
